@@ -1,6 +1,6 @@
-# V1
-def sum(a, b)
-  a + b
+# V2
+def sum(a, b, c)
+  a + b + c
 end
 
-puts sum(2,2)
+puts sum(2,2, 3)
